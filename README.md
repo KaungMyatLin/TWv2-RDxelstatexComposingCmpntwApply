@@ -1,5 +1,6 @@
-Tailwind Labs, Tailwind CSS v2.0: From Zero to Production -->
-/watch?v=hX1zUdj4Dw4&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=4
+# 04: Hover, Focus and Other States
+
+Ref: youtube.com/watch?v=5_BPDve5-3M&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=5
 
 https://github.com/tailwindlabs/tailwindcss-from-zero-to-production
 
